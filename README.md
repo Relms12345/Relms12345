@@ -30,7 +30,7 @@ learning more languages.
 - Motherboard: ASUS Strix Z790-A Gaming WiFi D4
 - CPU: Intel Core i7-13700K
 - Memory: 2x Corsair Vengeance RGB Pro DDR4 16GB @ 3600MHz ea.
-- GPU: MSI NVIDIA GeForce RTX 3090
+- GPU: MSI NVIDIA GeForce RTX 4070ti
 - Displays: 1 LG Ultragear 1440p @ 165Hz & 1 MSI Optix 1080p @ 144Hz
 - OS: Windows 11
 

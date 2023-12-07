@@ -9,7 +9,7 @@ learning more languages.
 ## Some facts about me
 
 - I am a Furry, and my sona is a Red Panda
-- I am currently 18 years old
+- I am currently 19 years old
 - I am currently in the middle of getting my PPL license
 - Feel free to add me on Discord @relms4100 or email me [relms@relms.dev](mailto:relms@relms.dev)
 - All my personal & private work can be found @ <https://code.relms.dev>
